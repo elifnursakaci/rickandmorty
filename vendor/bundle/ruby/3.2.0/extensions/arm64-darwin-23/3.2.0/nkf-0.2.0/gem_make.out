@@ -1,0 +1,19 @@
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/elifnursakaci/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-tvnirn sitelibdir\=./.gem.20240625-50588-tvnirn clean
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-tvnirn sitelibdir\=./.gem.20240625-50588-tvnirn
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-tvnirn sitelibdir\=./.gem.20240625-50588-tvnirn install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240625-50588-tvnirn
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-tvnirn sitelibdir\=./.gem.20240625-50588-tvnirn clean

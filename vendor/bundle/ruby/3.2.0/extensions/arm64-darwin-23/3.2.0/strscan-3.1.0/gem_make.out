@@ -1,0 +1,21 @@
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+/Users/elifnursakaci/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-knmzcp sitelibdir\=./.gem.20240625-50588-knmzcp clean
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-knmzcp sitelibdir\=./.gem.20240625-50588-knmzcp
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-knmzcp sitelibdir\=./.gem.20240625-50588-knmzcp install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240625-50588-knmzcp
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-knmzcp sitelibdir\=./.gem.20240625-50588-knmzcp clean

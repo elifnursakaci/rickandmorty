@@ -1,0 +1,16 @@
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/elifnursakaci/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-h2dt4x sitelibdir\=./.gem.20240625-50588-h2dt4x clean
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-h2dt4x sitelibdir\=./.gem.20240625-50588-h2dt4x
+make: Nothing to be done for `all'.
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-h2dt4x sitelibdir\=./.gem.20240625-50588-h2dt4x install
+
+current directory: /Users/elifnursakaci/Desktop/reduxexample/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-50588-h2dt4x sitelibdir\=./.gem.20240625-50588-h2dt4x clean
